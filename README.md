@@ -1,4 +1,4 @@
-Shortest Python solution for Kattis Zebras and Ocelots
+Shortest Python solution for Kattis Zebras and Ocelots (44 chars on Kattis)
 
 https://open.kattis.com/problems/zebrasocelots/statistics
 
